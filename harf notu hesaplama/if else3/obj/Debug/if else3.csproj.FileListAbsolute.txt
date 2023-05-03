@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\bin\Debug\if else3.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\bin\Debug\if else3.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\bin\Debug\if else3.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\obj\Debug\if else3.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\obj\Debug\if else3.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\obj\Debug\if else3.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\obj\Debug\if else3.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else3\if else3\obj\Debug\if else3.pdb

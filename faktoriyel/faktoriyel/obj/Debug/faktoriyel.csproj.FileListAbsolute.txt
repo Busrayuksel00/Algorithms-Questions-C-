@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\obj\Debug\faktoriyel.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\obj\Debug\faktoriyel.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\obj\Debug\faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\bin\Debug\faktoriyel.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\obj\Debug\faktoriyel.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\faktoriyel\faktoriyel\obj\Debug\faktoriyel.pdb

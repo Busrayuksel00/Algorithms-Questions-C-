@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\bin\Debug\diziler4.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\bin\Debug\diziler4.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\bin\Debug\diziler4.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\obj\Debug\diziler4.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\obj\Debug\diziler4.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\obj\Debug\diziler4.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\obj\Debug\diziler4.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\diziler4\diziler4\obj\Debug\diziler4.pdb

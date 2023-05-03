@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\obj\Debug\for döngü.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\obj\Debug\for döngü.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\obj\Debug\for döngü.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\bin\Debug\for döngü.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\bin\Debug\for döngü.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\bin\Debug\for döngü.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\obj\Debug\for döngü.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\for döngü\for döngü\obj\Debug\for döngü.pdb

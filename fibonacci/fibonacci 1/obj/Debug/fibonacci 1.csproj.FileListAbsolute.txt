@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\bin\Debug\fibonacci 1.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\bin\Debug\fibonacci 1.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\bin\Debug\fibonacci 1.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\obj\Debug\fibonacci 1.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\obj\Debug\fibonacci 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\obj\Debug\fibonacci 1.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\obj\Debug\fibonacci 1.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\fibonacci 1\fibonacci 1\obj\Debug\fibonacci 1.pdb

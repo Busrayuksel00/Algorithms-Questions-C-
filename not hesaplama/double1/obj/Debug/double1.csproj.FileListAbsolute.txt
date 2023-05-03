@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\obj\Debug\double1.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\obj\Debug\double1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\obj\Debug\double1.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\bin\Debug\double1.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\bin\Debug\double1.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\bin\Debug\double1.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\obj\Debug\double1.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\double1\double1\obj\Debug\double1.pdb

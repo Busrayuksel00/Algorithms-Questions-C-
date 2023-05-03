@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\bin\Debug\if else 4.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\bin\Debug\if else 4.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\bin\Debug\if else 4.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\obj\Debug\if else 4.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\obj\Debug\if else 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\obj\Debug\if else 4.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\obj\Debug\if else 4.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\if else 4\if else 4\obj\Debug\if else 4.pdb

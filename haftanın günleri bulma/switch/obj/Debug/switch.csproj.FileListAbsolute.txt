@@ -1,0 +1,8 @@
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\obj\Debug\switch.csproj.AssemblyReference.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\obj\Debug\switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\bin\Debug\@switch.exe.config
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\bin\Debug\@switch.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\bin\Debug\@switch.pdb
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\obj\Debug\@switch.exe
+C:\Users\BUSRA\Desktop\C# DERS DENEME\switch\switch\obj\Debug\@switch.pdb
