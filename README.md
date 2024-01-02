@@ -1,2 +1,2 @@
 # Algorithms-Questions-C#
-Algorithms-Questions C#
+Algorithms- Basic Questions C#
